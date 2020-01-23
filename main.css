@@ -4,5 +4,12 @@ html {
 
 body {
     color: red;
+    font-size: 1.6rem;
+}
+
+
+h1 {
+    color: green;
+
 }
 
