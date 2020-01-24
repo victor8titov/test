@@ -6,4 +6,6 @@ window.onload = function() {
 
 
     this.console.log(window.navigator);
+    this.console.log(window.navigator);
+    this.console.log(window.navigator);
 }
